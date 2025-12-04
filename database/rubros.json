@@ -1,0 +1,35 @@
+{
+  "rubros": [
+    {
+      "id": 1,
+      "nombre": "Desarrollo",
+      "descripcion": "Desarrollo de software",
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombre": "Diseño",
+      "descripcion": "Diseño gráfico",
+      "activo": true
+    },
+    {
+      "id": 3,
+      "nombre": "Consultoría",
+      "descripcion": "Consultoría técnica",
+      "activo": true
+    },
+    {
+      "id": 4,
+      "nombre": "Capacitación",
+      "descripcion": "Capacitaciones",
+      "activo": true
+    },
+    {
+      "id": 5,
+      "nombre": "Frontend",
+      "descripcion": "html",
+      "activo": true
+    }
+  ],
+  "next_id": 6
+}

@@ -1,0 +1,145 @@
+{
+  "horas_asignadas": [
+    {
+      "id": 1,
+      "trabajador_id": 1,
+      "rubro_id": 1,
+      "horas": 20.0,
+      "año": 2025
+    },
+    {
+      "id": 2,
+      "trabajador_id": 1,
+      "rubro_id": 2,
+      "horas": 10.0,
+      "año": 2025
+    },
+    {
+      "id": 3,
+      "trabajador_id": 2,
+      "rubro_id": 1,
+      "horas": 15.0,
+      "año": 2025
+    },
+    {
+      "id": 4,
+      "trabajador_id": 2,
+      "rubro_id": 3,
+      "horas": 5.0,
+      "año": 2025
+    },
+    {
+      "id": 5,
+      "trabajador_id": 3,
+      "rubro_id": 1,
+      "horas": 2.0,
+      "año": 2025
+    },
+    {
+      "id": 6,
+      "trabajador_id": 3,
+      "rubro_id": 2,
+      "horas": 4.0,
+      "año": 2025
+    },
+    {
+      "id": 7,
+      "trabajador_id": 3,
+      "rubro_id": 3,
+      "horas": 2.0,
+      "año": 2025
+    },
+    {
+      "id": 8,
+      "trabajador_id": 3,
+      "rubro_id": 4,
+      "horas": 2.0,
+      "año": 2025
+    },
+    {
+      "id": 9,
+      "trabajador_id": 1,
+      "rubro_id": 3,
+      "horas": 0.0,
+      "año": 2025
+    },
+    {
+      "id": 10,
+      "trabajador_id": 1,
+      "rubro_id": 4,
+      "horas": 0.0,
+      "año": 2025
+    },
+    {
+      "id": 11,
+      "trabajador_id": 1,
+      "rubro_id": 5,
+      "horas": 0.0,
+      "año": 2025
+    },
+    {
+      "id": 12,
+      "trabajador_id": 2,
+      "rubro_id": 2,
+      "horas": 0.0,
+      "año": 2025
+    },
+    {
+      "id": 13,
+      "trabajador_id": 2,
+      "rubro_id": 4,
+      "horas": 0.0,
+      "año": 2025
+    },
+    {
+      "id": 14,
+      "trabajador_id": 2,
+      "rubro_id": 5,
+      "horas": 0.0,
+      "año": 2025
+    },
+    {
+      "id": 15,
+      "trabajador_id": 3,
+      "rubro_id": 5,
+      "horas": 2.0,
+      "año": 2025
+    },
+    {
+      "id": 16,
+      "trabajador_id": 4,
+      "rubro_id": 1,
+      "horas": 1.0,
+      "año": 2025
+    },
+    {
+      "id": 17,
+      "trabajador_id": 4,
+      "rubro_id": 2,
+      "horas": 2.0,
+      "año": 2025
+    },
+    {
+      "id": 18,
+      "trabajador_id": 4,
+      "rubro_id": 3,
+      "horas": 3.0,
+      "año": 2025
+    },
+    {
+      "id": 19,
+      "trabajador_id": 4,
+      "rubro_id": 4,
+      "horas": 4.0,
+      "año": 2025
+    },
+    {
+      "id": 20,
+      "trabajador_id": 4,
+      "rubro_id": 5,
+      "horas": 5.0,
+      "año": 2025
+    }
+  ],
+  "next_id": 21
+}

@@ -1,0 +1,32 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@empresa.com
+      name: Administrador
+      # Contraseña: admin123
+      password: $2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/LewY5GyJfZbQ9L3hG
+      role: admin
+      area: null
+    supervisor1:
+      email: supervisor@empresa.com
+      name: Juan Pérez
+      # Contraseña: super123
+      password: $2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/LewY5GyJfZbQ9L3hG
+      role: supervisor
+      area: Ingeniería
+    trabajador1:
+      email: trabajador@empresa.com
+      name: María García
+      # Contraseña: trabajo123
+      password: $2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/LewY5GyJfZbQ9L3hG
+      role: trabajador
+      trabajador_id: 2
+
+cookie:
+  expiry_days: 30
+  key: some_signature_key_change_this
+  name: gestion_horas_cookie
+
+preauthorized:
+  emails:
+  - admin@empresa.com
