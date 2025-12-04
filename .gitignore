@@ -1,0 +1,79 @@
+# -------------------------------
+# ARCHIVOS DE CONFIGURACIÓN SENSIBLES
+# -------------------------------
+.env
+*.env
+secrets.toml
+.streamlit/secrets.toml
+credentials.json
+*.key
+*.pem
+*.p12
+
+# -------------------------------
+# ARCHIVOS DE STREAMLIT
+# -------------------------------
+.streamlit/*.json
+.streamlit/*.toml
+.streamlit/secrets.toml
+
+# -------------------------------
+# ARCHIVOS DE BASE DE DATOS
+# -------------------------------
+*.db
+*.sqlite
+*.sqlite3
+
+# -------------------------------
+# ARCHIVOS DE PYTHON
+# -------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+*.log
+
+# -------------------------------
+# ENTORNOS VIRTUALES
+# -------------------------------
+venv/
+env/
+.venv/
+.env/
+python_env/
+
+# -------------------------------
+# DIRECTORIOS DE COMPILACIÓN
+# -------------------------------
+build/
+dist/
+*.egg-info/
+
+# -------------------------------
+# ARCHIVOS DE GOOGLE CLOUD / AWS / API KEYS
+# -------------------------------
+*.json
+*.yaml
+*.yml
+token_*.txt
+service-account.json
+
+# -------------------------------
+# ARCHIVOS DEL SISTEMA / EDITOR
+# -------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# -------------------------------
+# OTROS ARCHIVOS QUE NO DEBEN SUBIRSE
+# -------------------------------
+*.bak
+*.tmp
+*.old
+*.cache
+logs/
+
